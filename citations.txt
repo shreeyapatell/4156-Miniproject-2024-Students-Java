@@ -5,7 +5,5 @@ Resources Used:
 - https://www.geeksforgeeks.org/spring-boot-mockmvc-example/ and https://docs.spring.io/spring-framework/reference/overview.html
 - https://www.youtube.com/watch?v=BZBFw6fBeIU
 - https://docs.pmd-code.org/latest/
-- https://docs.spring.io/spring-framework/reference/testing/unit.html
-- https://docs.oracle.com/javase/8/docs/api/java/lang/StringBuilder.html
 
-Ran `mvn clean test jacoco:report` to check tests and achieve 72% branch coverage in the IndividualProject directory
+Ran `mvn clean test jacoco:report` to check tests
